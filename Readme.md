@@ -1,0 +1,15 @@
+database_name="web"
+table_name="web"
+column_1="id"
+column_2="title"
+column_3="textarea"
+
+database sql_file="web.sql"
+add.php="File to add the title and content which contains form"
+connector_form.php="Is the connectivity File Of form"
+delete.php="Connectivity file for deleting the records"
+edit.php="File to edit the record"
+list.php="Contains Table which represents table data"
+web.json="The file in which the data is exported"
+webb.json="This file is used to import the data into database"
+
